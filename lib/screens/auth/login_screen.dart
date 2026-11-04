@@ -220,7 +220,7 @@ class _LoginScreenState extends State<LoginScreen> {
                             alignment: Alignment.centerRight,
                             child: TextButton(
                               onPressed: _iniciarRecuperacion, 
-                              child: const Text('¿Olvidaste tu contraseña?', style: TextStyle(color: Color(0xFF388E3C), fontSize: 14)),
+                              child: const Text('¿Olvidaste tu contraseña?', style: TextStyle(color: Color(0xFF388E3C), fontSize: 20)),
                             ),
                           ),
 

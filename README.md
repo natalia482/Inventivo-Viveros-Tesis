@@ -308,7 +308,7 @@ Este proyecto fue desarrollado como trabajo de grado en la Universidad de Cundin
 <a href="https://github.com/natalia482">
   <img src="https://img.shields.io/badge/GitHub-Ver_perfil-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Natalia">
 </a>
-<a href="https://www.linkedin.com/search/results/people/?keywords=Briyit%20Natalia%20Villalobos%20Rodr%C3%ADguez">
+<a href="https://www.linkedin.com/in/briyit-natalia-villalobos-rodriguez-ingeniera-de-sistemas/">
   <img src="https://img.shields.io/badge/LinkedIn-Ver_perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Natalia">
 </a>
 

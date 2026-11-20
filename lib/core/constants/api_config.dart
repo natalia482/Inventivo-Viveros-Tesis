@@ -1,6 +1,6 @@
 class ApiConfig {
 
-  static const String baseUrl = "https://magenta-raven-531109.hostingersite.com/api_inventivo";
+  static const String baseUrl = "https://inventivo.onrender.com";
 
   // AUTENTICACIÓN Y ROLES
   static const String registroPropietario = "$baseUrl/usuarios/registrar_propietario.php"; // Renombrado
